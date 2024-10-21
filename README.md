@@ -260,3 +260,12 @@ microfrontend
 │       └── api.js
 └── webpack.config.js
 ```
+# Разбивка монолитной системы на микросервисы
+Решение по ссылке 
+
+https://drive.google.com/file/d/147-3E9uNscNVuuIywAwlr8WZPROmtSEY/view?usp=sharing
+
+
+на вкладке sprint_1
+
+Также файл продублирован в корне проекта ([arch_template_task2 (2).drawio](arch_template_task2%20%282%29.drawio))
